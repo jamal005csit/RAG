@@ -1,6 +1,4 @@
-# RAG
-
-# Instagram FAQ Scraper (Step 1: Data Collection)
+# Step 1: Data Collection by Instagram FAQ Scraper 
 
 Scrapes Instagram Help Center FAQs into clean Markdown, to be used as the
 knowledge base for a RAG pipeline.
