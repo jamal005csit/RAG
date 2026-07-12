@@ -1,10 +1,6 @@
 # RAG
-trying to learn rag system and best approaches with my colleague darsh  
-N.B. I'm his colleague 😋
 
-
-
-# Instagram FAQ Scraper — RAG Project (Step 1: Data Collection)
+# Instagram FAQ Scraper (Step 1: Data Collection)
 
 Scrapes Instagram Help Center FAQs into clean Markdown, to be used as the
 knowledge base for a RAG pipeline.
